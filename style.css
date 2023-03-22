@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.text-class {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5%;
+}
+
+.flex-container {
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}
+
+img {
+    height: 400px;
+}
+
+.flex-item {
+    color: black;
+    background-color: rgb(11, 11, 88);
+    margin: 15px;
+    box-shadow: 1px 1px 10px rgb(137, 138, 138);
+}
