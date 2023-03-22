@@ -4,8 +4,16 @@
     box-sizing: border-box;
 }
 
+.navbar {
+    display: flex;
+    background-color: rgb(255, 166, 0);
+    height: 60px;
+
+}
+
 .page {
     margin: 100px;
+    margin-top: 50px;
 }
 
 .text-center {
