@@ -54,7 +54,7 @@ img {
 .nb-icons{
     display: flex;
     justify-content: space-around;
-    width: 150px;
+    width: 200px;
     align-items: center;
     color: white;
 }
