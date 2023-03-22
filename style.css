@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.text-class {
+.text-center {
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 5%;
@@ -15,7 +15,6 @@
     margin: 20px;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-color: aquamarine;
 }
 
 img {
@@ -24,7 +23,23 @@ img {
 
 .flex-item {
     color: black;
-    background-color: rgb(11, 11, 88);
     margin: 15px;
-    box-shadow: 1px 1px 10px rgb(137, 138, 138);
+    border: 1px solid rgb(205, 203, 203);
+    border-radius: 2px;
+}
+
+h5 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(161, 159, 159);
+}
+
+h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.p-style {
+    display: flex;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
 }
