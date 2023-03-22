@@ -59,6 +59,16 @@ img {
     color: white;
 }
 
+.bt-style {
+    border: none;
+    background-color: rgb(255, 166, 0);
+    color: white;
+}
+
+.b-select:hover {
+    color: rgb(188, 61, 6);
+}
+
 .flex-item {
     color: black;
     margin: 15px;
