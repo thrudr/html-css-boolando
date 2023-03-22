@@ -36,19 +36,27 @@ img {
 #navbar-flex  {
     display: flex;
     justify-content: space-around;
-    background-color: aqua;
+    padding: 15px;
 }
 
 .nb-item {
     display: flex;
     width: 200px;
-    background-color: blue;
     align-items: center;
     justify-content: space-around;
+    color: white;
 }
 
 #height-logo {
     height: 30px;
+}
+
+.nb-icons{
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+    align-items: center;
+    color: white;
 }
 
 .flex-item {
